@@ -1,0 +1,11 @@
+{
+    "resources": {
+        "sx-core": {
+            "version": "0.2.1",
+            "notes": [
+                "Added territories, improved performance, and fixed bugs."
+            ]
+        }
+    }
+}
+  
